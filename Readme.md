@@ -7,7 +7,7 @@ The Sakila DVD Rental Database is a fictional database created for an educationa
 - Slides_queries.pdf: 4 slides with a question, the data visualization and answers to the questions on each slide.
 - Queries_Sakila: A text file with the queries I wrote and run.
 - The Sakila Movie Database contains 15 tables. This is the ER Model:
-[DVD Rental ER Model](/dvd-renta-erd-2.png)
+[DVD Rental ER Model](/dvd-rental-erd-2.png)
 
 ### Origin of the database and project
 This is a project from Udacity's Programming for Data Science Nanodegree Program. The goal of this project was to explore a relational database using SQL. This project was already validated.
